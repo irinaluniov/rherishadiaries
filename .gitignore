@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta charset="UTF-8"/>
+		<title>THE RISHA DIARIES</title>
+		<body bgcolor="#000000">
+		<link href="bredcss.css" rel="stylesheet" type="text/css"/>
+		<link href="https://fonts.googleapis.com/css?family=Cinzel" rel="stylesheet">
+	</head>
+	<body>
+		
+		<div> 
+		<a id="logo" href="C:\Users\Toshiba\Desktop\STUDIES\html\bred.html">THE RISHA DIARIES</a>
+		</div> 
+		
+		<div> 
+			<h2 class="phrase">Il fine giustifica i mezzi</h2>
+		</div>
+	</body>
+</html>
